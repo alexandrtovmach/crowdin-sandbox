@@ -4,17 +4,17 @@
 
 ### Хедер3
 
-#### Header4
+#### Хедер4
 
-##### Header5
+##### Хедер5
 
-###### Header6
+###### Хедер6
 
-Alternatively, for Header1 and Header2, an underline-ish style:
+Альтернативи для Хедер1 та Хедер2 з підкресленням:
 
-# Alt-Header1
+# Альтернативний-Хедер1
 
-## Alt-Header2
+## Альтернативний-Хедер2
 
 Emphasis, aka italics, with *asterisks* or *underscores*.
 
