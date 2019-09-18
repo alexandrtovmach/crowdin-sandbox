@@ -1,20 +1,20 @@
-# Заголовок1
+# Хедер1
 
-## Заголовок2
+## Хедер2
 
-### Заголовок3
+### Хедер3
 
-#### Заголовок4
+#### Header4
 
-##### Заголовок5
+##### Header5
 
-###### Заголовок6
+###### Header6
 
-Alternatively, for Заголовок1 and Заголовок2, an underline-ish style:
+Alternatively, for Header1 and Header2, an underline-ish style:
 
-# Alt-Заголовок1
+# Alt-Header1
 
-## Alt-Заголовок2
+## Alt-Header2
 
 Emphasis, aka italics, with *asterisks* or *underscores*.
 
